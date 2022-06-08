@@ -1,0 +1,12 @@
+D:\repo\Kaspersky\FileSystemResolver\bin\Debug\net6.0\FileSystemResolver.deps.json
+D:\repo\Kaspersky\FileSystemResolver\bin\Debug\net6.0\FileSystemResolver.dll
+D:\repo\Kaspersky\FileSystemResolver\bin\Debug\net6.0\FileSystemResolver.pdb
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.csproj.AssemblyReference.cache
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.AssemblyInfoInputs.cache
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.AssemblyInfo.cs
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.csproj.CoreCompileInputs.cache
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.dll
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\refint\FileSystemResolver.dll
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\FileSystemResolver.pdb
+D:\repo\Kaspersky\FileSystemResolver\obj\Debug\net6.0\ref\FileSystemResolver.dll
